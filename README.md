@@ -1,0 +1,1 @@
+# Teaching-sound-synthesis-with-max-msp
